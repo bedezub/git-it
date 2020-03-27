@@ -1,1 +1,5 @@
 Just a random new files. 
+
+git add -A
+git commit -m "< Give bla bla name >"
+git push -f -u origin master

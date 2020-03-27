@@ -1,0 +1,3 @@
+Nice! Alright, I am just gonna delete this files from my pc.
+
+Now we are going to clone this project from Github, and make new changes.
