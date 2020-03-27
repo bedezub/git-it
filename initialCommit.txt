@@ -2,9 +2,15 @@ Hello guys. I am just learning on how to make git commit.
 
 Might as well to share with you guys! 
 
-First step: 
+Here are the steps:
 
 git init
-git add -A
-git commit -m "Initial Commit"
-git remote add origin 
+git add -A "< Write something in here >"
+git commit -m "
+git remote add origin < Add your repo link here >
+git push -f -u origin master
+
+Okay, assume we have create new file to upload in the repo.
+
+
+
