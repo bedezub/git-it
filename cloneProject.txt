@@ -1,0 +1,6 @@
+What we have do so far, I have deleted the files from my pc.
+Clone new projects from Github desktop. 
+
+Yeahh I know, I am too lazy to make command for it. 
+
+Okay, now let's make new commit!
