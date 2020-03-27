@@ -1,0 +1,10 @@
+Hello guys. I am just learning on how to make git commit. 
+
+Might as well to share with you guys! 
+
+First step: 
+
+git init
+git add -A
+git commit -m "Initial Commit"
+git remote add origin 
