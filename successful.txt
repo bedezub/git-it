@@ -1,0 +1,13 @@
+I consider it a successful project. 
+
+Wrapping it up. If you want to make changes to the repo:
+
+- Clone project using Github Desktop. lol.
+- Then, write some summary. Commit. Push. 
+
+Messed up projects 
+
+* java-flightmanagementsystem
+* laravel-tutorial
+
+Thanks me hahaha. 
