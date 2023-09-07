@@ -1,0 +1,6 @@
+Suppose this text is in the development branch. 
+
+1. We will create new working branch from the development.
+2. And then, try to make changes in the development branch.
+3. Fetch changes from development to the new working branch.
+
